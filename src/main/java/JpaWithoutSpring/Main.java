@@ -1,4 +1,4 @@
-package JpaSpring;
+package JpaWithoutSpring;
 
 public class Main {
 

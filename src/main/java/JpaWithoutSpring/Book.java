@@ -1,4 +1,4 @@
-package JpaSpring;
+package JpaWithoutSpring;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
